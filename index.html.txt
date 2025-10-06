@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daniel's Blog</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; color: #333; }
+    header { text-align: center; margin-bottom: 2em; }
+    article { background: white; padding: 1em; margin-bottom: 1.5em; border-radius: 10px; }
+    h1 { color: #0066cc; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Blog</h1>
+    <p>Sharing thoughts, ideas, and updates ✍️</p>
+  </header>
+
+  <article>
+    <h2>My First Blog Post</h2>
+    <p>Today, I launched my personal blog on GitHub Pages! Excited to share more soon.</p>
+  </article>
+
+  <footer>
+    <p>© 2025 Daniel Faniyi | Powered by GitHub Pages</p>
+  </footer>
+</body>
+</html>
